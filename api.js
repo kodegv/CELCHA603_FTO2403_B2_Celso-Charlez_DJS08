@@ -12,13 +12,13 @@ import {
 
 // DJS08 Firebase - CCharlez
 const firebaseConfig = {
-    apiKey: "AIzaSyDeLCecSYSlR0bLH8zPXmOOzVd9_U7ltwk",
-    authDomain: "djs08-70400.firebaseapp.com",
-    projectId: "djs08-70400",
-    storageBucket: "djs08-70400.appspot.com",
-    messagingSenderId: "1087903611713",
-    appId: "1:1087903611713:web:4ddff44edd1b24ce137fc0"
-};
+    apiKey: "AIzaSyAC0eAT7HCoeKN9CCBOIJbCpwnGkuh4iaw",
+    authDomain: "vanlife-2d7be.firebaseapp.com",
+    projectId: "vanlife-2d7be",
+    storageBucket: "vanlife-2d7be.appspot.com",
+    messagingSenderId: "710595922328",
+    appId: "1:710595922328:web:6d060e51a0d4c3bed843ed",
+  };
 
 const app = initializeApp(firebaseConfig)
 const db = getFirestore(app)
